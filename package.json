@@ -1,0 +1,11 @@
+{
+  "name": "langly",
+  "version": "0.1.0-alpha",
+  "description": "Application for make your writing better.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Skołuda",
+  "license": "MIT"
+}
